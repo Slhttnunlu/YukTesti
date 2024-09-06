@@ -346,7 +346,7 @@ Tags: ProjectSyncSayfasindaIkinciAdimdanBirinciAdimaGeriDonus
 
 Test-2-45 Project Sync sayfasında 2.adımdayken Cancel butonuna basıp Projects sayfasına geri gönüş kontrolü
 ------------------------------------------------------------------------------------------------------------
-Tags: ProjectSyncSayfasindaIkinciAdimdaykenCancelTusunaBas,ProjectsSayfasinaGeriDonus
+Tags: ProjectSyncSayfasindaIkinciAdimdaykenCancelTusunaBasProjectsSayfasinaGeriDonus
 
 * Project Sync tabına tıkla
 * Project Sync sayfasında "Enterprise_Otomasyon" isimli proje seçilerek Next tuşuna basılır ve 2.adıma geçilir

@@ -370,15 +370,7 @@ Tags: RunWithTagSayfasindaNewTagSayfasiKontrolu
 * New Tag butonuna tıklanır
 * New tag sayfası kontrolleri yapılır
 
-/Test-48: Expired bir planın Show Expired plans sayfasında görüldüğünü kontrol et
-/------------------------------------------------------------------------
-/Tags: ExpiredBirPlaninShowExpiredPlansSayfasindaGoruldugunuKontrolEt
-
-/* Plan sayfasında "Enterprise_Otomasyon" adlı proje seçilir
-/* Show expired plans butonuna tıklanır
-/* Expired olan "expiredPlanForTest" adlı planın Expired Test Plans tablosunda olduğu görülür
-
-Test-49: Expired Plan sayfasında planın end date i güncellenir ve expired plans tablosundan kalktığı görülür
+Test-48: Expired Plan sayfasında planın end date i güncellenir ve expired plans tablosundan kalktığı görülür
 -----------------------------------------------------------------------------------------------
 Tags: EndDateiGuncellenenPlaninExpiredTablosundanKalkmasi
 
@@ -391,7 +383,7 @@ Tags: EndDateiGuncellenenPlaninExpiredTablosundanKalkmasi
 * Navigate to back
 * "denemes" adlı planı sil
 
-Test-50: Bir planı koş ve show running plan kısmında o planın koştuğunu kontrol et
+Test-49: Bir planı koş ve show running plan kısmında o planın koştuğunu kontrol et
 -------------------------------------------------------------------------
 Tags: PlankosulurVeRunningPlanKismindaOplaninKostuguKontrolEdilir
 
@@ -400,7 +392,7 @@ Tags: PlankosulurVeRunningPlanKismindaOplaninKostuguKontrolEdilir
 * Show Running Plans butonuna tıkla
 * "ilkplan" adlı planın Show Running Plans kısmında koştuğunu gör
 
-Test-51: Plan sayfasında herhangi bir planın raporuna git doğru rapor gösterildiğini kontrol et
+Test-50: Plan sayfasında herhangi bir planın raporuna git doğru rapor gösterildiğini kontrol et
 --------------------------------------------------------------------------------------
 Tags: PlanSayfasindaRaporaGitDogruRaporGosterildiginiKontrolEt
 
@@ -408,7 +400,7 @@ Tags: PlanSayfasindaRaporaGitDogruRaporGosterildiginiKontrolEt
 * "ilkplan" adlı planın raporuna git
 * "ilkplan" adlı planın raporunun gösterildiğini kontrol et
 
-Test-52: Plan sayfasında herhangi bir planın edit kısmına git doğru edit sayfası gösterildiğini kontrol et
+Test-51: Plan sayfasında herhangi bir planın edit kısmına git doğru edit sayfası gösterildiğini kontrol et
 -------------------------------------------------------------------------------------------------
 Tags: PlanSayfasindaEditKisminaGitDogruEditSayfasiGeldiginiKontrolEt
 

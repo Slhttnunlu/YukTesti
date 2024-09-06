@@ -9,3 +9,11 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 PlansPage Kontrollerinin Yapılması
 ----------------
 * Plans Sayfasının kontrolleri yapılır
+
+/Test-48: Expired bir planın Show Expired plans sayfasında görüldüğünü kontrol et
+/------------------------------------------------------------------------
+/Tags: ExpiredBirPlaninShowExpiredPlansSayfasindaGoruldugunuKontrolEt
+
+/* Plan sayfasında "Enterprise_Otomasyon" adlı proje seçilir
+/* Show expired plans butonuna tıklanır
+/* Expired olan "expiredPlanForTest" adlı planın Expired Test Plans tablosunda olduğu görülür
