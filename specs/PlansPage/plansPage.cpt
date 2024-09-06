@@ -91,8 +91,6 @@ This is a concept file with following syntax for each concept.
 * "saveButton_PlansPage" elementinin görünür olması kontrol edilir
 * "saveButton_PlansPage" elementine tıkla
 
-
-
 # Planın oluşturulduğunu doğrula
 * "infoMessage_PlansPage" elementinin görünür olması kontrol edilir
 * "infoMessage_PlansPage" elementinin text değeri "The new plan has been created successfully." değerine eşit mi

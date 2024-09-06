@@ -278,23 +278,23 @@ Tags:ScenariosToCreateNewScenario
 * Create New Scenario için proje adının seçilmesi
 * Şu anki url "https://dev.testinium.com/members/testScenarioList.html" içeriyor mu
 
-Test-36: BatuMobileDeneme projesi seçilir ve senaryoların doğru listelendiği doğrulanır
+Test-36: Enterprise_Otomasyon projesi seçilir ve senaryoların doğru listelendiği doğrulanır
 ---------------------------------------------------------------------------------
-Tags: BatuMobileDenemeProjesiSecilirVeSenaryolarinDogruListelendigiDogrulanır
+Tags: EnterpriseOtomasyonProjesiSecilirVeSenaryolarinDogruListelendigiDogrulanır
 
-* "BatuMobileDeneme" adlı proje seçilir
-* "Hasarim_Var_Loginsiz_IOS" senaryosunun listede listelendiği doğrulanır
+* "Enterprise_Otomasyon" adlı proje seçilir
+* "ilksenaryo" senaryosunun listede listelendiği doğrulanır
 
 Test-37: Scenarios sayfasında yeni senaryo oluşturulması ve kontrolü
 ----------------
 Tags: ScenariosSayfasindaYeniSenaryoOlusturulmasiVeKontrolu
 
 * Create New Group için proje adının seçilmesi
-* Create New Scenario Kontrollerinin sağlanması
+/* Create New Scenario Kontrollerinin sağlanması
 * Create New Group Kontrollerinin sağlanması
 * Şu anki url "https://dev.testinium.com/members" içeriyor mu
 
-Test-11: Scenarios sayfasında senaryonun kopyalanması ve kontrolü
+Test-38: Scenarios sayfasında senaryonun kopyalanması ve kontrolü
 ----------------
 Tags: ScenariosSayfasindaSenaryonunKopyalanmasiVeKontrolu
 
@@ -302,21 +302,21 @@ Tags: ScenariosSayfasindaSenaryonunKopyalanmasiVeKontrolu
 * Copy Scenario Kontrollerinin sağlanması
 * Şu anki url "https://dev.testinium.com/members" içeriyor mu
 
-Test-12: Scenarios sayfasında Export excel tabına girilir ve kontrol edilir
+Test-39: Scenarios sayfasında Export excel tabına girilir ve kontrol edilir
 ----------------
 Tags:ScenariosSayfasindakiExportExcelKontrolu
 
 * Export Excel sayfasının element kontrolü yapılır
-* Export Excel Butonunun Kontrollerinin sağlanması
+/* Export Excel Butonunun Kontrollerinin sağlanması
 * Şu anki url "https://dev.testinium.com/members/testScenarioList.html" ile aynı mı
 
-Test-13: Scenarios sayfasında Export Excel için proje adının seçilmesi kontrolü
+Test-40: Scenarios sayfasında Export Excel için proje adının seçilmesi kontrolü
 ----------------------------------------
 Tags:ExportExcelIcinProjeAdininSecilmesiKontrolu
 
 * Export Excel için proje adının seçilmesi
 
-Test-14: Select to Project Name
+Test-41: Select to Project Name
 ----------------
 Tags:SelectToProjectName
 

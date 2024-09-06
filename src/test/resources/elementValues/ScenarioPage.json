@@ -1,8 +1,8 @@
 [
   {
-    "key": "",
-    "value": "",
-    "type": ""
+    "key": "createNewPlanButton_ScenarioPage",
+    "value": "//span[text()='CREATE NEW SCENARIO']//parent::a",
+    "type": "xpath"
   },
   {
     "key": "scenariosTab",
@@ -81,8 +81,8 @@
   },
   {
     "key": "description",
-    "value": "#scenarioDescription",
-    "type": "css"
+    "value": "scenarioDescription",
+    "type": "id"
   },
   {
 
@@ -143,8 +143,8 @@
   },
   {
     "key": "scenarioName",
-    "value": "#testScenarioName",
-    "type": "css"
+    "value": "testScenarioName",
+    "type": "id"
   },
   {
     "key": "testScenarioSave",
@@ -230,8 +230,67 @@
     "key": "projectNameSelect_ScenarioPage",
     "value": "//span[@id='project_panel']//li[@data-item-label='%s']",
     "type": "xpath"
+  },
+  {
+    "key": "scenarioName_TestscenarioForm_ScenarioPage",
+    "value": "planName",
+    "type": "id"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": "xpath"
+  },
+  {
 
-
+    "key": "",
+    "value": "",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": "xpath"
 
 
 

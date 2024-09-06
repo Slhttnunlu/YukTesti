@@ -15,8 +15,21 @@
 * "createNewScenarioTop" elementine tıkla
 * "projectButton" elementinin tıklanabilir olması kontrol edilir
 * "projectButton" elementine tıkla
-* "45" rastgele sayı üret "rasgeleSayıKeyValue" keyinde tut
+* "4" rastgele sayı üret "rasgeleSayıKeyValue" keyinde tut
 * "projectNameList" element listesinin "rasgeleSayıKeyValue" sıradaki elemanına tıkla
+
+
+# Scenario sayfasında <projectName> adlı proje seçilir
+* "projectNameInput_PlansPage" elementinin görünür olması kontrol edilir
+* "projectNameInput_PlansPage" elementinin değerini temizle
+* "projectNameInput_PlansPage" elementine <projectName> değerini yaz
+* "1" saniye bekle
+* "projectNameInput_PlansPage" elementine "ENTER" keyini yolla
+* "1" saniye bekle
+
+# Create new scenario butonuna tıklanır
+* "createNewPlanButton_ScenarioPage" elementinin görünür olması kontrol edilir
+* "createNewPlanButton_ScenarioPage" elementine tıkla
 
 # Create New Scenario Kontrollerinin sağlanması
 * "createNewScenarioTop" elementine tıkla
@@ -49,7 +62,7 @@
 * "copyScenarioTop" elementine tıkla
 * "projectButton" elementinin tıklanabilir olması kontrol edilir
 * "projectButton" elementine tıkla
-* "20" rastgele sayı üret "rasgeleSayıKeyValue" keyinde tut
+* "25" rastgele sayı üret "rasgeleSayıKeyValue" keyinde tut
 * "projectNameList" element listesinin "rasgeleSayıKeyValue" sıradaki elemanına tıkla
 
 # Copy Scenario Kontrollerinin sağlanması
@@ -77,7 +90,7 @@
 # Export Excel için proje adının seçilmesi
 * "projectButton" elementinin tıklanabilir olması kontrol edilir
 * "projectButton" elementine tıkla
-* "40" rastgele sayı üret "rasgeleSayıKeyValue" keyinde tut
+* "45" rastgele sayı üret "rasgeleSayıKeyValue" keyinde tut
 * "projectNameList" element listesinin "rasgeleSayıKeyValue" sıradaki elemanına tıkla
 
 # Dashboard tabına tıklayınız
