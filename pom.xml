@@ -9,10 +9,10 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
-        <maven.compiler.compilerVersion>1.8</maven.compiler.compilerVersion>
-        <gauge.version>0.6.9</gauge.version>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+        <maven.compiler.compilerVersion>11</maven.compiler.compilerVersion>
+        <gauge.version>0.10.3</gauge.version>
         <selenium.version>3.141.59</selenium.version>
         <junit5.version>5.8.1</junit5.version>
         <junit5.platform.version>1.8.1</junit5.platform.version>

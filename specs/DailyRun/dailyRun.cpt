@@ -44,12 +44,12 @@ This is a concept file with following syntax for each concept.
 * The new project has been created successfully mesajının alınması ve Projects ekranına sayfanın yönlenmesi beklenir
 * Projects sayfası oluşturulan "seleniumSiteURLProjectNameKeyValue" proje ismi kontrolü
 
- Enes Turan adlı company'e geçiş yap
- "enesCompany_ProjectsPage_DailyRun" elementinin değerini temizle
- "enesCompany_ProjectsPage_DailyRun" elementine "Enes Turan" değerini yaz
- "1" saniye bekle
- "enesCompany_ProjectsPage_DailyRun" elementine "ENTER" keyini yolla
- "1" saniye bekle
+ #Deneme adlı company'e geçiş yap
+ *"AnotherCompany_ProjectsPage_DailyRun" elementinin değerini temizle
+ *"AnotherCompany_ProjectsPage_DailyRun" elementine "Deneme" değerini yaz
+ *"1" saniye bekle
+ *"AnotherCompany_ProjectsPage_DailyRun" elementine "ENTER" keyini yolla
+ *"1" saniye bekle
 
 # Proje ismi alanından açılan projeyi seç
 * "projectName_ScenariosPage_DailyRun" elementinin görünür olması kontrol edilir
@@ -57,7 +57,6 @@ This is a concept file with following syntax for each concept.
 * "projectName_ScenariosPage_DailyRun" elementine "seleniumSiteURLProjectNameKeyValue" değerini yaz
 * "1" saniye bekle
 * "projectName_ScenariosPage_DailyRun" elementine "ENTER" keyini yolla
-
 
 # <scenarioName> adıyla bir senaryo oluştur dailyrun
 * <scenarioName> degerini "senaryoNameKeyValue" keyinde tut

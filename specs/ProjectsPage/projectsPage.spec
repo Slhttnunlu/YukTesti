@@ -1,8 +1,7 @@
 Projects Page Scenarios
 =====================
 
-
-* "testinium" ve "Qwe123+" bilgileriyle gecerli login yap
+* "testinium" ve "testinium" bilgileriyle gecerli login yap
 * Projects tabına tıkla ve Projects sayfasında olduğunu kontrol et
 
 Test-2-1: Projects sayfasının kontrollerini yap
@@ -331,12 +330,12 @@ Tags: ProjectSayfasindaProjeSecmedenNextTusunaBasilirVeUyariMesajiAlinir
 * Project Sync sayfasındaki Next Butonuna tıkla
 * Select Project Hata mesajı alınır
 
-Test-2-43 Project Sync sayfasında Amazon projesi seçilerek 2.adıma geçilir ve sayfa kontrolleri yapılır
+Test-2-43 Project Sync sayfasında Enterprise_Otomasyon projesi seçilerek 2.adıma geçilir ve sayfa kontrolleri yapılır
 -------------------------------------------------------------------------------------------------------
 Tags: ProjectSyncSayfasindaProjeSecilirIkinciAdimaGecilirSayfakontrolleriYapilir
 
 * Project Sync tabına tıkla
-* Project Sync sayfasında "Amazon" isimli proje seçilerek Next tuşuna basılır ve 2.adıma geçilir
+* Project Sync sayfasında "Enterprise_Otomasyon" isimli proje seçilerek Next tuşuna basılır ve 2.adıma geçilir
 * Project Sync sayfasında 2. adımın element kontrolleri yapılır
 
 Test-2-44 Project Sync sayfasında 2.adımdan Back tuşuna basıp 1.adıma geri dönüşün kontrolü
@@ -350,7 +349,7 @@ Test-2-45 Project Sync sayfasında 2.adımdayken Cancel butonuna basıp Projects
 Tags: ProjectSyncSayfasindaIkinciAdimdaykenCancelTusunaBas,ProjectsSayfasinaGeriDonus
 
 * Project Sync tabına tıkla
-* Project Sync sayfasında "Amazon" isimli proje seçilerek Next tuşuna basılır ve 2.adıma geçilir
+* Project Sync sayfasında "Enterprise_Otomasyon" isimli proje seçilerek Next tuşuna basılır ve 2.adıma geçilir
 * Project Sync sayfasında 2. adımın element kontrolleri yapılır
 * Project Sync sayfasındaki Cancel butonuna tıkla
 * Şu anki url "https://dev.testinium.com/members/projectList.html" ile aynı mı
@@ -383,3 +382,21 @@ Tags: ProjectSyncSayfasindaGerekliSecimlerYapilirDorduncuAdimaGecilirSayfaKontro
 
 * Project Sync tabına tıkla
 * Gerekli Seçimler yapılır ve 4.adıma geçilir sayfa kontrolü yapılır
+
+Test-2-50 Gauge frameworku kullanarak yeni selenium projesi oluşturma kontrolü
+----------------------------------------------------------------------------------------------------
+Tags: GaugeFrameworkKullanarakYeniSeleniumProjesiOlusturmaKontrolu
+
+* Create new project tabına tıkla ve sayfada olduğunu kontrol et
+* Gauge Frameworkü kulllanarak bir selenium projesi oluştur
+* Projects sayfasına girip oluşturulan projeyi sil
+
+Test-2-51 Gauge frameworku kullanarak yeni appium projesi oluşturma kontrolü
+-----------------------------------------------------------------------------------------------------
+Tags: GaugeFrameworkuKullanarakYeniAppiumProjesiOlusturmaKontrolu
+
+* Create new project tabına tıkla ve sayfada olduğunu kontrol et
+* Gauge Frameworkü kullanarak bir appium projesi oluştur
+* Projects sayfasına girip oluşturulan projeyi sil
+
+

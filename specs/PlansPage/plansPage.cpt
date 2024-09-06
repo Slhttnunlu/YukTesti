@@ -24,16 +24,16 @@ This is a concept file with following syntax for each concept.
 * "1" saniye bekle
 
 # Projeye ait planların plan tablosuna geldiği görülür
-* "planName_PlansPage" elementinin değerini "Enterprise_LoginPagePlan" değeriyle değiştirerek "planControlKeyValue" elementini oluştur
+* "planName_PlansPage" elementinin değerini "ilkplan" değeriyle değiştirerek "planControlKeyValue" elementini oluştur
 * "planControlKeyValue" elementinin görünür olması kontrol edilir
-* "planName_PlansPage" elementinin değerini "Enterprise_Otomasyon_Plan_01" değeriyle değiştirerek "planControlKeyValue" elementini oluştur
+* "planName_PlansPage" elementinin değerini "EnterpriseRegresyon" değeriyle değiştirerek "planControlKeyValue" elementini oluştur
 * "planControlKeyValue" elementinin görünür olması kontrol edilir
-* "planName_PlansPage" elementinin değerini "OtomasyonDeneme" değeriyle değiştirerek "planControlKeyValue" elementini oluştur
-* "planControlKeyValue" elementinin görünür olması kontrol edilir
-* "planName_PlansPage" elementinin değerini "Project_Page_Plan_01" değeriyle değiştirerek "planControlKeyValue" elementini oluştur
-* "planControlKeyValue" elementinin görünür olması kontrol edilir
-* "planName_PlansPage" elementinin değerini "enesdeneme" değeriyle değiştirerek "planControlKeyValue" elementini oluştur
-* "planControlKeyValue" elementinin görünür olması kontrol edilir
+/* "planName_PlansPage" elementinin değerini "OtomasyonDeneme" değeriyle değiştirerek "planControlKeyValue" elementini oluştur
+/* "planControlKeyValue" elementinin görünür olması kontrol edilir
+/* "planName_PlansPage" elementinin değerini "Project_Page_Plan_01" değeriyle değiştirerek "planControlKeyValue" elementini oluştur
+/* "planControlKeyValue" elementinin görünür olması kontrol edilir
+/* "planName_PlansPage" elementinin değerini "enesdeneme" değeriyle değiştirerek "planControlKeyValue" elementini oluştur
+/* "planControlKeyValue" elementinin görünür olması kontrol edilir
 
 # Create new plan butonuna tıklanır
 * "createNewPlanButton_PlansPage" elementinin görünür olması kontrol edilir
@@ -43,7 +43,7 @@ This is a concept file with following syntax for each concept.
 * <planName> degerini "planNameKeyValue" keyinde tut
 * "planName_TestPlanForm_DailyRun" elementinin görünür olması kontrol edilir
 * "planName_TestPlanForm_DailyRun" elementine "planNameKeyValue" değerini yaz
-* "scenarioOfPlan_PlansPage" elementinin değerini "enesdeneme" değeriyle değiştirerek "scenarioKeyValue" elementini oluştur
+* "scenarioOfPlan_PlansPage" elementinin değerini "PlanPage" değeriyle değiştirerek "scenarioKeyValue" elementini oluştur
 * "scenarioKeyValue" elementinin görünür olması kontrol edilir
 * "scenarioKeyValue" elementine tıkla
 * "nextButton_PlansPage" elementinin görünür olması kontrol edilir
@@ -66,7 +66,7 @@ This is a concept file with following syntax for each concept.
 * <planName> degerini "planNameKeyValue" keyinde tut
 * "planName_TestPlanForm_DailyRun" elementinin görünür olması kontrol edilir
 * "planName_TestPlanForm_DailyRun" elementine "planNameKeyValue" değerini yaz
-* "scenarioOfPlan_PlansPage" elementinin değerini "enesdeneme" değeriyle değiştirerek "scenarioKeyValue" elementini oluştur
+* "scenarioOfPlan_PlansPage" elementinin değerini "PlanPage" değeriyle değiştirerek "scenarioKeyValue" elementini oluştur
 * "scenarioKeyValue" elementinin görünür olması kontrol edilir
 * "scenarioKeyValue" elementine tıkla
 * "nextButton_PlansPage" elementinin görünür olması kontrol edilir

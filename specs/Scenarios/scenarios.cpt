@@ -1,6 +1,7 @@
 
 
 # Scenarios tabına tıkla ve Scenarios sayfasında olduğunu kontrol et
+* "scenariosTab" elementinin görünür olması kontrol edilir
 * "scenariosTab" elementine tıkla
 * Şu anki url "https://dev.testinium.com/members/testScenarioList.html" ile aynı mı
 * "pageHeader" elementinin görünür olması kontrol edilir
@@ -8,6 +9,7 @@
 # Scenarios sayfasındaki elementlerin kontrolünü yap
 * "pageHeader" elementinin text değeri "Test Scenario List" değerini içeriyor mu
 * "pageHeader" elementinin görünür olması kontrol edilir
+* Şu anki url "https://dev.testinium.com/members/testScenarioList.html" ile aynı mı
 
 # Create New Scenario için proje adının seçilmesi
 * "createNewScenarioTop" elementine tıkla

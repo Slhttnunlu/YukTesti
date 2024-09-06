@@ -1,8 +1,8 @@
 Daily Run
 ================
 
-* "testinium" ve "Qwe123+" bilgileriyle gecerli login yap
-/ Enes Turan adlı company'e geçiş yap
+* "testinium" ve "testinium" bilgileriyle gecerli login yap
+* Deneme adlı company'e geçiş yap
 * Projects tabına tıkla ve Projects sayfasında olduğunu kontrol et
 
 End-to-End Daily Run Scenario

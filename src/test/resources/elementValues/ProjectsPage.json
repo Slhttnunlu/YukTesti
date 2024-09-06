@@ -378,5 +378,88 @@
     "key": "option",
     "value": "//li[text()='10 Minutes']",
     "type": "xpath"
+  },
+  {
+    "key": "ProjectForm_AppiumProject",
+    "value": "//li[@class='articles__article']/a[.//h2[normalize-space(.)='Appium']]",
+    "type": "xpath"
+  },
+  {
+    "key": "testFrameworkPanel_AppiumProject",
+    "value": "testFrameworkPanel",
+    "type": "id"
+  },
+  {
+    "key": "testFrameworkName_AppiumProject",
+    "value": "#testFrameworkPanel>div>span",
+    "type": "css"
+  },
+  {
+    "key": "gaugeFileType_AppiumProject",
+    "value": "input[value='APPIUM_GAUGE']",
+    "type": "css"
+  },
+  {
+    "key": "projectName_Appium",
+    "value": "projectName",
+    "type": "id"
+  },
+  {
+    "key": "projectDescription_Appium",
+    "value": "projectDescription",
+    "type": "id"
+  },
+  {
+    "key": "testFileType_Appium",
+    "value": "//table[@id='testFileType' and .//input[@value='APPIUM_JAVA'] and .//input[@value='APPIUM_CUCUMBER'] and .//input[@value='APPIUM_CS'] and .//input[@value='APPIUM_GAUGE'] and .//input[@value='APPIUM_SPECFLOW']]",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": "xpath"
+
+
+
   }
 ]

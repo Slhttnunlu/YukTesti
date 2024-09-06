@@ -306,14 +306,14 @@
 
 # Project Sync sayfasında 2.adımdan Back tuşuna basıp 1.adıma geçiş yapılır
 * Project Sync tabına tıkla
-* Project Sync sayfasında "Amazon" isimli proje seçilerek Next tuşuna basılır ve 2.adıma geçilir
+* Project Sync sayfasında "Enterprise_Otomasyon" isimli proje seçilerek Next tuşuna basılır ve 2.adıma geçilir
 * Project Sync sayfasında 2. adımın element kontrolleri yapılır
 * Project Sync sayfasındaki Back butonuna tıkla
 * "projectsPanel_ProjectSync" elementinin görünür olması kontrol edilir
 * "cancelButton_ProjectSync" elementinin görünür olması kontrol edilir
 * "nextButton_ProjectSync" elementinin görünür olması kontrol edilir
 * "projectStep_ProjectSync" elementinin "class" niteliği "active" değerine eşit mi
-* "methodsToImportStep_ProjectSync" elementinin "class" niteliği "" değerine eşit mi
+* "methodsToImportStep_ProjectSync" elementinin "class" niteliği "active" değerine eşit mi
 
 # Project Sync sayfasında 3.adımın element kontroleri yapılır
 * "steps_ProjectSync" elementinin görünür olması kontrol edilir
@@ -324,7 +324,7 @@
 * "methodsToRemoveStep_ProjectSync" elementinin "class" niteliği "active" değerine eşit mi
 
 # Gerekli Seçimler yapılır ve 3.adıma geçilir sayfa kontrolü yapılır
-* Project Sync sayfasında "Amazon" isimli proje seçilerek Next tuşuna basılır ve 2.adıma geçilir
+* Project Sync sayfasında "Enterprise_Otomasyon" isimli proje seçilerek Next tuşuna basılır ve 2.adıma geçilir
 * Project Sync sayfasında 2. adımın element kontrolleri yapılır
 * "checkAllCheckBox_ProjectSync_Step2" elementinin görünür olması kontrol edilir
 * "checkAllCheckBox_ProjectSync_Step2" elementine tıkla
@@ -352,7 +352,7 @@
 * "summaryStep_ProjectSync" elementinin "class" niteliği "active" değerine eşit mi
 
 # Gerekli Seçimler yapılır ve 4.adıma geçilir sayfa kontrolü yapılır
-* Project Sync sayfasında "Amazon" isimli proje seçilerek Next tuşuna basılır ve 2.adıma geçilir
+* Project Sync sayfasında "Enterprise_Otomasyon" isimli proje seçilerek Next tuşuna basılır ve 2.adıma geçilir
 * Project Sync sayfasında 2. adımın element kontrolleri yapılır
 * "checkAllCheckBox_ProjectSync_Step2" elementinin görünür olması kontrol edilir
 * "checkAllCheckBox_ProjectSync_Step2" elementine tıkla
@@ -371,4 +371,28 @@
 * Create new project tabına tıkla
 * Şu anki url "https://dev.testinium.com/members/project/projectTypeSelection.html" ile aynı mı
 
+# Gauge Frameworkü kullanarak bir appium projesi oluştur
+* "ProjectForm_AppiumProject" elementinin görünür olması kontrol edilir
+* "ProjectForm_AppiumProject" elementine tıkla
+* Şu anki url "https://dev.testinium.com/members/project/appiumProjectForm.html?type=appium" ile aynı mı
+* "testFrameworkPanel_AppiumProject" elementinin görünür olması kontrol edilir
+* "testFrameworkName_AppiumProject" elementinin görünür olması kontrol edilir
+* "testFrameworkName_AppiumProject" elementinin text değeri "Appium" değerine eşit mi
+/* project Form sayfasının elementlerini kontrol et
+* "AppiumGauge" adıyla Appium gauge projesi oluştur
+* The new project has been created successfully mesajının alınması ve projects ekranına sayfanın yönlenmesi beklenir
+* Projects sayfası oluşturulan "seleniumSiteURLProjectNameKeyValue" proje ismi kontrolü
 
+# <projectName> adıyla Appium gauge projesi oluştur
+* <projectName> değerine rastgele "7" karakter ekle ve "seleniumSiteURLProjectNameKeyValue" keyinde tut
+* "gaugeFileType_AppiumProject" elementine tıkla
+* "projectName_Appium" elementine "seleniumSiteURLProjectNameKeyValue" değerini yaz
+* "projectDescription_Appium" elementine "This project is opened for Automation Test" değerini yaz
+* "repositoryPath_DailyRun" elementinin değerini temizle
+* "repositoryPath_DailyRun" elementine "rundaily" değerini yaz
+* "saveButton_DailyRun" elementine tıkla
+
+# The new project has been created successfully mesajının alınması ve projects ekranına sayfanın yönlenmesi beklenir
+* "projectSuccessfullyCreated_DailyRun" elementinin görünür olması kontrol edilir "90"
+* Şu anki url "https://dev.testinium.com/members/project/appiumProjectForm.html?type=appium" ile farklı mı
+* Şu anki url "https://dev.testinium.com/members/projectList.html" ile aynı mı

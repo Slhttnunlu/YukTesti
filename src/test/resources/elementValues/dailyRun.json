@@ -80,7 +80,7 @@
     "type": "xpath"
   },
   {
-    "key": "enesCompany_ProjectsPage_DailyRun",
+    "key": "AnotherCompany_ProjectsPage_DailyRun",
     "value": "//span[@id='navForm:companySelectForAdmin']/input[@value='TESTINIUM']",
     "type": "xpath"
   },
