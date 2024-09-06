@@ -24,7 +24,7 @@ Tags: ScenariosSayfasindanSystemSettingsIcindekiLicenceInformationSayfasinaGecis
 
 * System Settings tabına tıkla
 * Licence Information tabına tıkla
-* Şu anki url "http://dev.testinium.com/members/admin/licencePropertyList.html" ile aynı mı
+* Şu anki url "https://dev.testinium.com/members/admin/licencePropertyList.html" ile aynı mı
 
 Test-4: Scenarios sayfasından System Settings içindeki System properties sayfasına geçiş
 -----------------------------------------------------------------------------------------
