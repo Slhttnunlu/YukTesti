@@ -10,6 +10,7 @@ Tags: PlansSayfasiElementKontrolleri
 
 * Plans sayfasının element kontrolleri yapılır
 
+
 Test-2: Plan sayfası proje seçimi ve projeye ait doğru planların geldiği kontrolü
 ---------------------------------------------------------------------------------
 Tags: ProjeSecimiVeDogruPlanlarinGeldigiKontrolu
