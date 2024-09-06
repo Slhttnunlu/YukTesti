@@ -19,14 +19,14 @@ Tags: ProjeSecimiVeDogruPlanlarinGeldigiKontrolu
 
 Test-3: Plan sayfasından Dashboard sayfasına geçiş
 ---------------------------------------------------------
-Tags: ScenariosSayfasindanDashboardSayfasinaGecis
+Tags: PlanSayfasindanDashboardSayfasinaGecis
 
 * Dashboard tabına tıkla for companies
 * Şu anki url "https://dev.testinium.com/members/dashboard.html" ile aynı mı
 
 Test-4: Plan sayfasından System Settings içindeki Licence Information sayfasına geçiş
 -------------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanSystemSettingsIcindekiLicenceInformationSayfasinaGecis
+Tags: PlanSayfasindanSystemSettingsIcindekiLicenceInformationSayfasinaGecis
 
 * System Settings tabına tıkla
 * Licence Information tabına tıkla
@@ -34,7 +34,7 @@ Tags: ScenariosSayfasindanSystemSettingsIcindekiLicenceInformationSayfasinaGecis
 
 Test-5: Plan sayfasından System Settings içindeki System properties sayfasına geçiş
 -----------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanSystemSettingsIcindekiSystemPropertiesSayfasinaGecis
+Tags: PlanSayfasindanSystemSettingsIcindekiSystemPropertiesSayfasinaGecis
 
 * System Settings tabına tıkla
 * System Properties tabına tıkla
@@ -42,7 +42,7 @@ Tags: ScenariosSayfasindanSystemSettingsIcindekiSystemPropertiesSayfasinaGecis
 
 Test-6: Plan sayfasından System Settings içindeki Selenium Hubs sayfasına geçiş
 ------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanSystemSettingsIcindekiSeleniumHubsSayfasinaGecis
+Tags: PlanSayfasindanSystemSettingsIcindekiSeleniumHubsSayfasinaGecis
 
 * System Settings tabına tıkla
 * Selenium Hubs tabına tıkla
@@ -50,7 +50,7 @@ Tags: ScenariosSayfasindanSystemSettingsIcindekiSeleniumHubsSayfasinaGecis
 
 Test-7: Plan sayfasından System Settings içindeki Role / Permission Management sayfasındaki Roles sayfasına geçiş
 ----------------------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanSystemSettingsIcindekiRolePermissionManagementSayfasindakiRoleseGecis
+Tags: PlanSayfasindanSystemSettingsIcindekiRolePermissionManagementSayfasindakiRoleseGecis
 
 * System Settings tabına tıkla
 * Role/Permission Management tabına tıkla
@@ -59,7 +59,7 @@ Tags: ScenariosSayfasindanSystemSettingsIcindekiRolePermissionManagementSayfasin
 
 Test-8: Plan sayfasından System Settings içindeki Role / Permission Management sayfasındaki Permissions sayfasına geçiş
 ------------------------------------------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanSystemSettingsIcindekiRolePermissionManagementSayfasindakiPermissionseGecis
+Tags: PlanSayfasindanSystemSettingsIcindekiRolePermissionManagementSayfasindakiPermissionseGecis
 
 * System Settings tabına tıkla
 * Role/Permission Management tabına tıkla
@@ -68,7 +68,7 @@ Tags: ScenariosSayfasindanSystemSettingsIcindekiRolePermissionManagementSayfasin
 
 Test-9: Plan sayfasından System Settings içindeki Browsers/Phones sayfasına geçiş
 --------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanSystemSettingsIcindekiBrowsersPhonesSayfasinaGecis
+Tags: PlanSayfasindanSystemSettingsIcindekiBrowsersPhonesSayfasinaGecis
 
 * System Settings tabına tıkla
 * Browsers/Phones tabına tıkla
@@ -76,7 +76,7 @@ Tags: ScenariosSayfasindanSystemSettingsIcindekiBrowsersPhonesSayfasinaGecis
 
 Test-10: Plan sayfasından System Settings içindeki Test Environments sayfasına geçiş
 --------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanSystemSettingsIcindekiTestEnvironmentsSayfasinaGecis
+Tags: PlanSayfasindanSystemSettingsIcindekiTestEnvironmentsSayfasinaGecis
 
 * System Settings tabına tıkla
 * Test Environments tabına tıkla
@@ -84,7 +84,7 @@ Tags: ScenariosSayfasindanSystemSettingsIcindekiTestEnvironmentsSayfasinaGecis
 
 Test-11: Plan sayfasından System Settings içindeki Test Environments Status sayfasına geçiş
 --------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanSystemSettingsIcindekiTestEnvironmentsStatusSayfasinaGecis
+Tags: PlanSayfasindanSystemSettingsIcindekiTestEnvironmentsStatusSayfasinaGecis
 
 * System Settings tabına tıkla
 * Test Environments Status tabına tıkla
@@ -92,7 +92,7 @@ Tags: ScenariosSayfasindanSystemSettingsIcindekiTestEnvironmentsStatusSayfasinaG
 
 Test-12: Plan sayfasından System Settings içindeki Active Tests sayfasına geçiş
 --------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanSystemSettingsIcindekiActiveTestsSayfasinaGecis
+Tags: PlanSayfasindanSystemSettingsIcindekiActiveTestsSayfasinaGecis
 
 * System Settings tabına tıkla
 * Active Tests tabına tıkla
@@ -100,7 +100,7 @@ Tags: ScenariosSayfasindanSystemSettingsIcindekiActiveTestsSayfasinaGecis
 
 Test-13: Plan sayfasından System Settings içindeki Screen Resolutions sayfasına geçiş
 --------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanSystemSettingsIcindekiScreenResolutionsSayfasinaGecis
+Tags: PlanSayfasindanSystemSettingsIcindekiScreenResolutionsSayfasinaGecis
 
 * System Settings tabına tıkla
 * Screen Resolutions tabına tıkla
@@ -108,7 +108,7 @@ Tags: ScenariosSayfasindanSystemSettingsIcindekiScreenResolutionsSayfasinaGecis
 
 Test-14: Plan sayfasından System Settings içindeki Predefined Exceptions sayfasına geçiş
 --------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanSystemSettingsIcindekiPredefinedExceptionsSayfasinaGecis
+Tags: PlanSayfasindanSystemSettingsIcindekiPredefinedExceptionsSayfasinaGecis
 
 * System Settings tabına tıkla
 * Predefined Exceptions tabına tıkla
@@ -116,7 +116,7 @@ Tags: ScenariosSayfasindanSystemSettingsIcindekiPredefinedExceptionsSayfasinaGec
 
 Test-15: Plan sayfasından System Settings içindeki Cloud Test Environments sayfasına geçiş
 --------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanSystemSettingsIcindekiCloudTestEnvironmentsSayfasinaGecis
+Tags: PlanSayfasindanSystemSettingsIcindekiCloudTestEnvironmentsSayfasinaGecis
 
 * System Settings tabına tıkla
 * Cloud Test Environments tabına tıkla
@@ -124,7 +124,7 @@ Tags: ScenariosSayfasindanSystemSettingsIcindekiCloudTestEnvironmentsSayfasinaGe
 
 Test-16: Plan sayfasından System Settings içindeki Cloud Test Environments Groups sayfasına geçiş
 --------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanSystemSettingsIcindekiCloudTestEnvironmentsGroupsSayfasinaGecis
+Tags: PlanSayfasindanSystemSettingsIcindekiCloudTestEnvironmentsGroupsSayfasinaGecis
 
 * System Settings tabına tıkla
 * Cloud Test Environments Groups tabına tıkla
@@ -132,7 +132,7 @@ Tags: ScenariosSayfasindanSystemSettingsIcindekiCloudTestEnvironmentsGroupsSayfa
 
 Test-17: Plan sayfasından System Settings içindeki Notifications sayfasına geçiş
 --------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanSystemSettingsIcindekiNotificationsSayfasinaGecis
+Tags: PlanSayfasindanSystemSettingsIcindekiNotificationsSayfasinaGecis
 
 * System Settings tabına tıkla
 * Notifications tabına tıkla
@@ -140,7 +140,7 @@ Tags: ScenariosSayfasindanSystemSettingsIcindekiNotificationsSayfasinaGecis
 
 Test-18: Plan sayfasından System Settings içindeki Project Clone sayfasına geçiş
 --------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanSystemSettingsIcindekiProjectCloneSayfasinaGecis
+Tags: PlanSayfasindanSystemSettingsIcindekiProjectCloneSayfasinaGecis
 
 * System Settings tabına tıkla
 * Project Clone tabına tıkla
@@ -148,7 +148,7 @@ Tags: ScenariosSayfasindanSystemSettingsIcindekiProjectCloneSayfasinaGecis
 
 Test-19: Plan sayfasından System Settings içindeki Companys Scheduled Plans sayfasına geçiş
 --------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanSystemSettingsIcindekiCompanysScheduledPlansSayfasinaGecis
+Tags: PlanSayfasindanSystemSettingsIcindekiCompanysScheduledPlansSayfasinaGecis
 
 * System Settings tabına tıkla
 * Company's scheduled plans tabına tıkla
@@ -156,49 +156,49 @@ Tags: ScenariosSayfasindanSystemSettingsIcindekiCompanysScheduledPlansSayfasinaG
 
 Test-20: Plan sayfasından Companies sayfasına geçiş
 ----------------------------------------------
-Tags: ScenariosSayfasindanCompaniesSayfasinaGecis
+Tags: PlanSayfasindanCompaniesSayfasinaGecis
 
 * Companies tabına tıkla
 * Şu anki url "https://dev.testinium.com/members/companyList.html" ile aynı mı
 
 Test-21: Plan sayfasından Users sayfasına geçiş
 ------------------------------------------
-Tags: ScenariosSayfasindanUsersSayfasinaGecis
+Tags: PlanSayfasindanUsersSayfasinaGecis
 
 * Users tabına tıkla for companies
 * Şu anki url "https://dev.testinium.com/members/userList.html" ile aynı mı
 
 Test-22: Plan sayfasından projects sayfasına geçiş
 ---------------------------------------------
-Tags: ScenariosSayfasindanProjectsSayfasinaGecis
+Tags: PlanSayfasindanProjectsSayfasinaGecis
 
 * Projects tabına tıkla for companies
 * Şu anki url "https://dev.testinium.com/members/projectList.html" ile aynı mı
 
 Test-23: Plan sayfasından Scenarios sayfasına geçiş
 ----------------------------------------------
-Tags: ScenariosSayfasindanScenariosSayfasinaGecis
+Tags: PlanSayfasindanScenariosSayfasinaGecis
 
 * Scenarios tabına tıkla
 * Şu anki url "https://dev.testinium.com/members/testScenarioList.html" ile aynı mı
 
 Test-24: Plan sayfasından Plans sayfasına geçiş
 -------------------------------------------
-Tags: ScenariosSayfasindanPlansSayfasinaGecis
+Tags: PlanSayfasindanPlansSayfasinaGecis
 
 * Plans tabına tıkla for companies
 * Şu anki url "https://dev.testinium.com/members/testPlanList.html" ile aynı mı
 
 Test-25: Plan sayfasından BDD editor sayfasına geçiş
 -----------------------------------------------
-Tags: ScenariosSayfasindanBDDeditorSayfasinagecis
+Tags: PlanSayfasindanBDDeditorSayfasinagecis
 
 * BDD Editör tabına tıkla
 * Şu anki url "https://dev.testinium.com/members/featureFileList.html" ile aynı mı
 
 Test-26: Plan sayfasından Reports içindeki Test Executions(Auto) sayfasına geçiş
 --------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanReportsIcindekiTestExecutionsAutoSayfasinagecis
+Tags: PlanSayfasindanReportsIcindekiTestExecutionsAutoSayfasinagecis
 
 * Reports tabına tıkla for projectPage
 * Test Executions(Auto) tabına tıkla
@@ -206,7 +206,7 @@ Tags: ScenariosSayfasindanReportsIcindekiTestExecutionsAutoSayfasinagecis
 
 Test-27: Plan sayfasından Reports içindeki Test Executions(Remote) sayfasına geçiş
 --------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanReportsIcindekiTestExecutionsRemoteSayfasinagecis
+Tags: PlanSayfasindanReportsIcindekiTestExecutionsRemoteSayfasinagecis
 
 * Reports tabına tıkla for projectPage
 * Test Executions(Remote) tabına tıkla
@@ -214,7 +214,7 @@ Tags: ScenariosSayfasindanReportsIcindekiTestExecutionsRemoteSayfasinagecis
 
 Test-28: Plan sayfasından Reports içindeki Test Executions(Tag) sayfasına geçiş
 --------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanReportsIcindekiTestExecutionsTagSayfasinagecis
+Tags: PlanSayfasindanReportsIcindekiTestExecutionsTagSayfasinagecis
 
 * Reports tabına tıkla for projectPage
 * Test Executions(Tag) tabına tıkla
@@ -222,7 +222,7 @@ Tags: ScenariosSayfasindanReportsIcindekiTestExecutionsTagSayfasinagecis
 
 Test-29: Plan sayfasından Reports içindeki Detailed Reports sayfasına geçiş
 --------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanReportsIcindekiDetailedReportsSayfasinagecis
+Tags: PlanSayfasindanReportsIcindekiDetailedReportsSayfasinagecis
 
 * Reports tabına tıkla for projectPage
 * Detailed Reports tabına tıkla
@@ -230,7 +230,7 @@ Tags: ScenariosSayfasindanReportsIcindekiDetailedReportsSayfasinagecis
 
 Test-30: Plan sayfasından Reports içindeki Instant Reports sayfasına geçiş
 --------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanReportsIcindekiInstantReportsSayfasinagecis
+Tags: PlanSayfasindanReportsIcindekiInstantReportsSayfasinagecis
 
 * Reports tabına tıkla for projectPage
 * Instant Reports tabına tıkla
@@ -238,7 +238,7 @@ Tags: ScenariosSayfasindanReportsIcindekiInstantReportsSayfasinagecis
 
 Test-31: Plan sayfasından Reports içindeki Scheduled Reports sayfasına geçiş
 --------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanReportsIcindekiScheduledReportsSayfasinagecis
+Tags: PlanSayfasindanReportsIcindekiScheduledReportsSayfasinagecis
 
 * Reports tabına tıkla for projectPage
 * Scheduled reports tabına tıkla
@@ -246,7 +246,7 @@ Tags: ScenariosSayfasindanReportsIcindekiScheduledReportsSayfasinagecis
 
 Test-32: Plan sayfasından Reports içindeki Graph Reports sayfasına geçiş
 --------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanReportsIcindekiGraphReportsSayfasinagecis
+Tags: PlanSayfasindanReportsIcindekiGraphReportsSayfasinagecis
 
 * Reports tabına tıkla for projectPage
 * Graph reports tabına tıkla
@@ -262,7 +262,7 @@ Tags: ScenariosSayfasindanReportsIcindekiExecutionGraphsSayfasinagecis
 
 Test-34: Plan sayfasından Reports içindeki Pass Rate Reports sayfasına geçiş
 --------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanReportsIcindekiPassRateReportsSayfasinagecis
+Tags: PlanSayfasindanReportsIcindekiPassRateReportsSayfasinagecis
 
 * Reports tabına tıkla for projectPage
 * Pass rate reports tabına tıkla
@@ -270,7 +270,7 @@ Tags: ScenariosSayfasindanReportsIcindekiPassRateReportsSayfasinagecis
 
 Test-35: Plan sayfasından Reports içindeki Test Results By Period sayfasına geçiş
 --------------------------------------------------------------------------------------
-Tags: ScenariosSayfasindanReportsIcindekiTestResultsByPeriodSayfasinagecis
+Tags: PlanSayfasindanReportsIcindekiTestResultsByPeriodSayfasinagecis
 
 * Reports tabına tıkla for projectPage
 * Test Results By Period tabına tıkla
