@@ -16,7 +16,7 @@ Test-2: Scenarios sayfasından Dashboard sayfasına geçiş
 Tags: ScenariosSayfasindanDashboardSayfasinaGecis
 
 * Dashboard tabına tıkla for companies
-* Şu anki url "https://dev.testinium.com/members" ile aynı mı
+* Şu anki url "http://dev.testinium.com/members/dashboard.html" ile aynı mı
 
 Test-3: Scenarios sayfasından System Settings içindeki Licence Information sayfasına geçiş
 -------------------------------------------------------------------------------------------

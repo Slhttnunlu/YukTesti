@@ -11,7 +11,7 @@
 
 # <email> ve <password> bilgileriyle gecerli login yap
 * <email> ve <password> bilgileriyle giris yap
-* Şu anki url "https://dev.testinium.com/members" içeriyor mu
+* Şu anki url "http://dev.testinium.com/members/dashboard.html" içeriyor mu
 * "headerDashboard" elementinin görünür olması kontrol edilir
 * "headerDashboard" elementinin text değeri "Dashboard" değerini içeriyor mu
 
