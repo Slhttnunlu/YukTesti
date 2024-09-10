@@ -27,5 +27,5 @@ Tags: UserProfileCancelButonuKontrolu
 * User Information tabına tıkla
 * Profile butonuna tıkla
 * User Profile sayfasındaki cancel butonuna tıkla
-* Şu anki url "https://dev.testinium.com/members/dashboard.html" ile aynı mı
+* Şu anki url "https://dev.testinium.com/members" ile aynı mı
 

@@ -10,7 +10,7 @@ Test-1-1: Companies sayfasından Dashboard sayfasına geçiş
 Tags:CompaniesSayfasindanDashboardSayfasinaGecis
 
 * Dashboard tabına tıkla for companies
-* Şu anki url "https://dev.testinium.com/members/dashboard.html" ile aynı mı
+* Şu anki url "https://dev.testinium.com/members" ile aynı mı
 
 Test-1-2: Companies sayfasından System Settings sayfasına geçiş
 --------------------------------------------

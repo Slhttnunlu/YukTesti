@@ -22,7 +22,7 @@ Test-3: Plan sayfasından Dashboard sayfasına geçiş
 Tags: PlanSayfasindanDashboardSayfasinaGecis
 
 * Dashboard tabına tıkla for companies
-* Şu anki url "https://dev.testinium.com/members/dashboard.html" ile aynı mı
+* Şu anki url "https://dev.testinium.com/members" ile aynı mı
 
 Test-4: Plan sayfasından System Settings içindeki Licence Information sayfasına geçiş
 -------------------------------------------------------------------------------------------
