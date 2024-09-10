@@ -15,7 +15,7 @@ Test-2-2: Projects sayfasından Dashboard sayfasına geçiş
 Tags: ProjectsSayfasindanDashboardSayfasinaGecis
 
 * Dashboard tabına tıkla for companies
-* Şu anki url "http://dev.testinium.com/members" ile aynı mı
+* Şu anki url "http://dev.testinium.com/members/dashboard.html" ile aynı mı
 
 Test-2-3: Projects sayfasından System Settings içindeki Licence Information sayfasına geçiş
 -------------------------------------------------------------------------------------------

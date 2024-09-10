@@ -5,7 +5,7 @@
 # Projects tabına tıkla ve Projects sayfasında olduğunu kontrol et
 * "projectsTab_Projects" elementinin görünür olması kontrol edilir
 * "projectsTab_Projects" elementine tıkla
-* Şu anki url "https://dev.testinium.com/members/projectList.html" ile aynı mı
+* Şu anki url "http://dev.testinium.com/members/projectList.html" ile aynı mı
 * "projectListTextNavBar_Projects" elementinin görünür olması kontrol edilir
 * "projectListTextNavBar_Projects" elementinin text değeri "Project List" değerine eşit mi
 * "projectListTextHeader_Projects" elementinin görünür olması kontrol edilir
@@ -258,7 +258,7 @@
 # Project Sync tabına tıkla
 * "projectSyncTab_Projects" elementinin görünür olması kontrol edilir
 * "projectSyncTab_Projects" elementine tıkla
-* Şu anki url "https://dev.testinium.com/members/project/projectSync.html" ile aynı mı
+* Şu anki url "http://dev.testinium.com/members/project/projectSync.html" ile aynı mı
 * "pageHeader_ProjectSync" elementinin görünür olması kontrol edilir
 * "pageHeader_ProjectSync" elementinin text değeri "Project Synchronization" değerini içeriyor mu
 
@@ -369,12 +369,12 @@
 
 # Create new project tabına tıkla ve sayfada olduğunu kontrol et
 * Create new project tabına tıkla
-* Şu anki url "https://dev.testinium.com/members/project/projectTypeSelection.html" ile aynı mı
+* Şu anki url "http://dev.testinium.com/members/project/projectTypeSelection.html" ile aynı mı
 
 # Gauge Frameworkü kullanarak bir appium projesi oluştur
 * "ProjectForm_AppiumProject" elementinin görünür olması kontrol edilir
 * "ProjectForm_AppiumProject" elementine tıkla
-* Şu anki url "https://dev.testinium.com/members/project/appiumProjectForm.html?type=appium" ile aynı mı
+* Şu anki url "http://dev.testinium.com/members/project/appiumProjectForm.html?type=appium" ile aynı mı
 * "testFrameworkPanel_AppiumProject" elementinin görünür olması kontrol edilir
 * "testFrameworkName_AppiumProject" elementinin görünür olması kontrol edilir
 * "testFrameworkName_AppiumProject" elementinin text değeri "Appium" değerine eşit mi
@@ -394,5 +394,5 @@
 
 # The new project has been created successfully mesajının alınması ve projects ekranına sayfanın yönlenmesi beklenir
 * "projectSuccessfullyCreated_DailyRun" elementinin görünür olması kontrol edilir "90"
-* Şu anki url "https://dev.testinium.com/members/project/appiumProjectForm.html?type=appium" ile farklı mı
-* Şu anki url "https://dev.testinium.com/members/projectList.html" ile aynı mı
+* Şu anki url "http://dev.testinium.com/members/project/appiumProjectForm.html?type=appium" ile farklı mı
+* Şu anki url "http://dev.testinium.com/members/projectList.html" ile aynı mı
