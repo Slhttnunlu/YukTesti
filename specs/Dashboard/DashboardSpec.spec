@@ -192,6 +192,12 @@ Tags: DashboardSayfasındakiActiveTestsButonununCalismasiKontrolü
 * Şu anki url "https://dev.testinium.com/members/dashboardActiveTests.html" ile aynı mı
 
 
+Test-2-24: Projects sayfasının kontrollerini yap
+-----------------------------------------------
+Tags: ProjectsSayfaKontrolu
+
+* Projects sayfasındaki elementlerin kontrolünü yap
+
 
 
 
