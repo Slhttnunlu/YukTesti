@@ -196,7 +196,7 @@ Test-2-24: Projects sayfasının kontrollerini yap
 -----------------------------------------------
 Tags: ProjectsSayfaKontrolu
 
-* Projects sayfasındaki elementlerin kontrolünü yap
+* "2" saniye bekle
 
 
 
